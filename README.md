@@ -1,4 +1,4 @@
-# Scripts
+# Kpheine/Scripts
 
 Some useful scripts I mantain to automate some things
 
