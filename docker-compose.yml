@@ -2,7 +2,7 @@ version: '3'
 services:
   test:
     image: ubuntu:latest
-    command: /bin/sh -c "apt-get update && apt-get install -y sudo && tail -f /dev/null"
+    command: /bin/sh -c "tail -f /dev/null"
     volumes:
       - .:/scripts/
     networks:
